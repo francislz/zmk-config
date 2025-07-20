@@ -20,4 +20,4 @@
 ---
 include:
   - board: nrfmicro_11
-    shield: tester_pro_micro
+    shield: dm_4x6_3
