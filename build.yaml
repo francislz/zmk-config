@@ -20,4 +20,8 @@
 ---
 include:
   - board: nrfmicro_11
-    shield: dm_4x6_3
+    shield: dm_4x6_3_left
+  - board: nrfmicro_11
+    shield: dm_4x6_3_right
+  - board: nrfmicro_11
+    shield: settings_reset
