@@ -4,11 +4,9 @@ Name: dm_4x6_3
 type: shield
 url: https://github.com/francislz/zmk-config
 requires:
-  - nrfmicro_11
+  - nice_nano_v2
 features:
   - keys
-  - display
-  - encoders
 siblings:
   - dm_4x6_3_left
   - dm_4x6_3_right
