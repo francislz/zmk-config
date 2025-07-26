@@ -67,7 +67,7 @@
                 <&key_physical_attrs 100 100 1000 345  0 0 0>,   // RC(3,9)
                 <&key_physical_attrs 100 100  900  395  0 0 0>,  // RC(3,7)
                 <&key_physical_attrs 100 100  800  395  0 0 0>,  // RC(4,6)
-                <&key_physical_attrs 100 100 1000 445  0 0 0>,   // RC(4,8)
+                <&key_physical_attrs 100 100 1000 445  0 0 0>   // RC(4,8)
                 ;
     };
 
