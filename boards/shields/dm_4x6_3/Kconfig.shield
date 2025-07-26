@@ -1,5 +1,5 @@
 config SHIELD_DM_4x6_3_LEFT
-    def_bool $(shields_list_contains, dm_4x6_3_left)
+    def_bool $(shields_list_contains,dm_4x6_3_left)
 
 config SHIELD_DM_4x6_3_RIGHT
-    def_bool $(shields_list_contains, dm_4x6_3_right)
+    def_bool $(shields_list_contains,dm_4x6_3_right)

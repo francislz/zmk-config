@@ -21,9 +21,9 @@
 include:
   - board: nice_nano_v2
     shield: dm_4x6_3_left
-    nippet: zmk-usb-logging
   - board: nice_nano_v2
     shield: dm_4x6_3_right
-    snippet: zmk-usb-logging
   - board: nice_nano_v2
     shield: settings_reset
+  - board: nice_nano_v2
+    shield: tester_pro_micro
