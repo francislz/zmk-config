@@ -28,7 +28,7 @@
                         &kp N9      &kp N0                                                         &none       &none       
                         &none       &none    &none                               &none   &none    &none
             >;
-        }
+        };
 
         symbol_layer {
             display-name = "Symbols";
