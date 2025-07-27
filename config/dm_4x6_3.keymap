@@ -15,7 +15,7 @@
 &kp LCTRL   &kp A       &kp S       &kp D       &kp F       &kp G               &kp H       &kp J       &kp K       &kp L       &kp SEMI    &kp SQT
 &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B               &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp RSHFT
                         &kp MINUS   &kp PLUS                                                            &kp LBKT    &kp RBKT    
-                        &mo 1       &kp LCTRL    &kp SPACE                       &kp ENTER   &kp RGUI    &kp LEFT_ALT
+                        &mo 1       &kp SPACE &kp BACKSPACE                     &kp ENTER   &kp RGUI    &kp LEFT_ALT
             >;
         };
 
